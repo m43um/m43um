@@ -49,4 +49,4 @@ Here you'll find projects from my university courses as well as personal project
 
 GitHub: github.com/m43um
 
-LinkedIn: Coming soon
+LinkedIn: linkedin.com/in/masumeh-rezai-b71054255
